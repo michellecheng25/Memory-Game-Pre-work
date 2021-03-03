@@ -37,11 +37,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 - Win using a sequence of 3 random notes. (sequence of 3 for the sake of gif file size):
+
 ![](https://i.imgur.com/G50afcw.gif)
+- Lose after 3 strikes:
 
-- Lose after 3 strikes.
 ![](https://i.imgur.com/E3ffISr.gif)
-
 
 GIF created with [ezgif](https://ezgif.com/).
 
