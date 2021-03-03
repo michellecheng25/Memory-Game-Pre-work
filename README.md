@@ -40,8 +40,8 @@ The following **additional** features are implemented:
 ![](https://i.imgur.com/G50afcw.gif)
 
 - Lose after 3 strikes.
-
 ![](https://i.imgur.com/E3ffISr.gif)
+
 
 GIF created with [ezgif](https://ezgif.com/).
 
