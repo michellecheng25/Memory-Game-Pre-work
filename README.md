@@ -41,10 +41,6 @@ The following **additional** features are implemented:
 
 - Lose after 3 strikes.
 ![](https://i.imgur.com/E3ffISr.gif)
-
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 GIF created with [ezgif](https://ezgif.com/).
 
 ## Reflection Questions
