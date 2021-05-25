@@ -5,7 +5,7 @@ const nextClueWaitTime = 1000;
 
 //Global Variables
 var pattern = [];
-var length = 3;
+var length = 5;
 var progress = 0; 
 var gamePlaying = false;
 var gamePlaying = false;
