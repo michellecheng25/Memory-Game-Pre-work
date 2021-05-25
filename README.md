@@ -1,6 +1,6 @@
 # Pre-work - **DO-RE-MI Memory Game**
 
-**DO-RE-MI Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+[**DO-RE-MI Memory Game**](https://michellecheng25.github.io/Memory-Game-Pre-work/) is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
 Submitted by: **Michelle Cheng**
 
